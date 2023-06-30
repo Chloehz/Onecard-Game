@@ -1,8 +1,6 @@
-# HuangJiahe521370910102-p2
+# Onecard Game
 ## Information
 ### Personal Information
-- Name: Jiahe HUANG 
-- ID: 521370910102
 - Finished Date: 8th Nov. 2021
 
 ### Basic Information
